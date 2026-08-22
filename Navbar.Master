@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Navbar.master.cs" Inherits="PAP___F1_Ticket.Navbar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="stylesheet" href="Themes/Navbar.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://kit.fontawesome.com/5d93eb1089.js" crossorigin="anonymous"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+          <div class="navbart">
+            <img src="../images/PaginaInicial/F1TicketIMG.png" class="logoIMG" />
+            <div class="iconeHome">
+            <asp:hyperlink id="home" runat="server" class="HyperLinkPerfil" navigateurl="PaginaInicial.aspx">aaa</asp:hyperlink>
+            <i class="fa-solid fa-house" style="color:white;height:2em; width:2em;margin-top:-0.5%;"></i>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Informações da F1 
+                <i class="fa fa-caret-down"></i>
+                </button>
+           <div class="ItensDropdown">
+                <a href="../SobrePilotos.aspx">Sobre Pilotos</a>
+                <a href="../SobreEquipas.aspx">Sobre Equipas</a>
+           </div>
+           </div>
+           <div class="dropdown">
+                <button class="dropbtn">Campeonatos 2023
+                <i class="fa fa-caret-down"></i>
+                </button>
+           <div class="ItensDropdown">
+                <a href="../CampeonatoPilotos.aspx">Campeonato Pilotos</a>
+                <a href="../CampeonatoConstrutores.aspx">Campeonato Construtores</a>
+           </div>
+           </div>
+           <img src="../images/PaginaInicial/F1TicketTXT.png" class="logoTXT" />
+           <div class="iconeCarrinho">
+                <asp:label class="round-label" id="lblCarrinho" runat="server"></asp:label>
+                <asp:hyperlink id="carrinho" runat="server" class="HyperLinkCarrinho" navigateurl="Carrinho.aspx">aaa</asp:hyperlink>
+                <i class="fa-regular fa-cart-shopping" style="color:white; height:2.2em; width:2.2em;"></i>
+           </div>
+           <div class="iconeHistorico">
+                <asp:hyperlink id="historico" runat="server" class="HyperLinkHistorico" navigateurl="Historico.aspx">aaa</asp:hyperlink>
+                <i class="fa-solid fa-clock-rotate-left" style="color:white; height:2em; width:2em;"></i>
+           </div>
+            <div class="iconePerfil">
+                <asp:hyperlink id="perfil" runat="server" class="HyperLinkPerfil" navigateurl="Perfil.aspx">aaa</asp:hyperlink>
+                <i class="fa-solid fa-circle-user" style="color: white; height:2em; width:2em;"></i>
+           </div>
+            <asp:LinkButton CssClass="iconeLogOut" ID="btnRedirectToLogin" runat="server" OnClick="redirectToLogin">
+                    <i class="fa-solid fa-arrow-right-from-bracket" style="color: white; height:2em; width:2em"></i>
+            </asp:LinkButton>
+        </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

@@ -1,0 +1,63 @@
+C:\Projectos\PAP - F1 Ticket\bin\PAP - F1 Ticket.dll.config
+C:\Projectos\PAP - F1 Ticket\bin\PAP - F1 Ticket.dll
+C:\Projectos\PAP - F1 Ticket\bin\PAP - F1 Ticket.pdb
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csc.exe
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csc.exe.config
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csc.rsp
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csi.exe
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csi.exe.config
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\csi.rsp
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.AppContext.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Collections.Immutable.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Console.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.IO.Compression.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.IO.FileSystem.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Net.Http.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Net.Sockets.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.ValueTuple.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Xml.XPath.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\vbc.exe
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\vbc.exe.config
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\vbc.rsp
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\VBCSCompiler.exe
+C:\Projectos\PAP - F1 Ticket\bin\roslyn\VBCSCompiler.exe.config
+C:\Projectos\PAP - F1 Ticket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projectos\PAP - F1 Ticket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projectos\PAP - F1 Ticket\obj\Debug\PAP - F1 Ticket.csproj.AssemblyReference.cache
+C:\Projectos\PAP - F1 Ticket\obj\Debug\PAP - F1 Ticket.csproj.CoreCompileInputs.cache
+C:\Projectos\PAP - F1 Ticket\obj\Debug\PAP - F1 Ticket.dll
+C:\Projectos\PAP - F1 Ticket\obj\Debug\PAP - F1 Ticket.pdb
+C:\Projectos\PAP - F1 Ticket\bin\EntityFramework.dll
+C:\Projectos\PAP - F1 Ticket\bin\EntityFramework.SqlServer.dll
+C:\Projectos\PAP - F1 Ticket\bin\EntityFramework.xml
+C:\Projectos\PAP - F1 Ticket\bin\EntityFramework.SqlServer.xml
+C:\Projectos\PAP - F1 Ticket\obj\Debug\PAP - F1.765A087E.Up2Date

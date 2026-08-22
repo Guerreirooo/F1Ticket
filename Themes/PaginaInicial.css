@@ -1,0 +1,56 @@
+﻿.body {
+}
+
+.divPistas {
+    height: 450px;
+    width: 40%;
+    margin-top: 12%;
+    overflow-y: scroll;
+    border-style: solid;
+    border-color: red;
+    border-bottom-width: 3px;
+    border-top-width: 3px;
+    border-right: 0px;
+    border-left-width: 3px;
+    border-image: linear-gradient(to right, red 100%, white 0%) 1;
+}
+
+.box {
+    height: 20%;
+    margin: 10px;
+    border: none;
+    display: flex;
+    background-color: #eeeeee;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.divPistas::-webkit-scrollbar {
+    width: 3px;
+    background-color: white;
+}
+
+.divPistas::-webkit-scrollbar-thumb {
+    background-color: black;
+}
+
+.DataCorridas {
+    margin-top: 69px;
+}
+
+.btnComprar {
+    display: block;
+    text-align: center;
+    border-radius: 8px;
+    height: 40%;
+    width: 17%;
+    color: black;
+    background-color: #eeeeee;
+}
+
+    .btnComprar:hover {
+        background-color: red;
+        color: white;
+        border: none;
+    }
