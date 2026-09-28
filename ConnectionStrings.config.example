@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<connectionStrings>
+  <add name="ConnectionString"
+       connectionString="data source=LOCALHOST\SQLEXPRESS;UID=YOUR_USER;Password=YOUR_PASSWORD;Initial Catalog=F1Ticket;Persist Security Info=True"
+       providerName="System.Data.SqlClient" />
+</connectionStrings>

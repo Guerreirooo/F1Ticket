@@ -1,0 +1,15 @@
+# Credenciais locais
+ConnectionStrings.config
+
+# Visual Studio / build
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg

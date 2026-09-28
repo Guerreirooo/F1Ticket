@@ -122,6 +122,7 @@
     <Content Include="Themes\Navbar.css" />
     <Content Include="Themes\PaginaInicial.css" />
     <Content Include="Themes\Register.css" />
+    <Content Include="ConnectionStrings.config.example" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
